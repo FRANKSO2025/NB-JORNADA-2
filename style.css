@@ -6,6 +6,9 @@
         font-family: "Sevillana",sans-serif;
         margin 0px; 
         }
+        header{
+            border-bottom: solid 3px red(42, 122, 228);
+        }
 
     h1{
         font-size: 60px;
