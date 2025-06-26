@@ -4,10 +4,10 @@
     }
         body{
         font-family: "Sevillana",sans-serif;
-        margin 0px; 
+        margin: 0px; 
         }
         header{
-            border-bottom: dotted 3px red(42, 122, 228);
+            border-bottom: dotted 3px rgb(42, 122, 228);
         }
 
     h1{
