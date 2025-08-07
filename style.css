@@ -34,7 +34,7 @@
   img{
     height: 200px;
   }
-  .chamada-texto{
+  .chamada-texto {
     display: flex;
     overflow-x: auto;
   }
