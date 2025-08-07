@@ -37,4 +37,12 @@
   .chamada-texto {
     display: flex;
     overflow-x: auto;
+    gap: 10px:
   }
+
+    section{
+    pedding leding: 20px;
+    pedding right: 20px;
+    }
+
+    
